@@ -13,5 +13,6 @@ Language : C#(WPF)
 
 1. Application.evtx
 2. System.evtx
-3. HardwareEvents.evtx 
+3. HardwareEvents.evtx
 
+프로젝트의 배포는 Windows Installer 프로젝트를 통해 Setup 파일을 만들어 배포한다.
